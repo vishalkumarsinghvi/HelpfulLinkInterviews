@@ -16,3 +16,7 @@ MVC Sample Project :- https://github.com/vandanasri/MVC-Sample-Android
 MVP Sample Project :- https://github.com/vandanasri/MVP-Sample-Android
 
 MVVM Sample Project :- https://github.com/vandanasri/MVVM-Sample-Android
+
+Retrofit Basic Example :- https://medium.com/@prakash_pun/retrofit-a-simple-android-tutorial-48437e4e5a23
+
+
