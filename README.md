@@ -24,4 +24,11 @@ Retrofit Basic Example :- https://medium.com/@prakash_pun/retrofit-a-simple-andr
 
 Best Android library :- https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/
 
+Android LunchMode Best Tutorial:- https://www.youtube.com/watch?v=m8sf0UkJkxo&list=PLfuE3hOAeWhY8fkzCluHakmK9A3bJsGR0
+
+Android Content Provider :- https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4
+
+Beginner Android Learning :- https://www.youtube.com/channel/UC3xHg20VI9mKFRaSs1yaicw
+
+Beginner Java Learning :-  https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK
 
