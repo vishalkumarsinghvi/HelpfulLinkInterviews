@@ -32,3 +32,5 @@ Beginner Android Learning :- https://www.youtube.com/channel/UC3xHg20VI9mKFRaSs1
 
 Beginner Java Learning :-  https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK
 
+Kotlin Learning basic revision :- https://medium.com/@mayuroks/learn-kotlin-for-android-in-one-day-50aa0bc099b0
+
