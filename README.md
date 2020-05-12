@@ -34,3 +34,5 @@ Beginner Java Learning :-  https://www.youtube.com/watch?v=WOUpjal8ee4&list=PLsy
 
 Kotlin Learning basic revision :- https://medium.com/@mayuroks/learn-kotlin-for-android-in-one-day-50aa0bc099b0
 
+Android thread services full explaintion :- https://www.toptal.com/android/android-threading-all-you-need-to-know
+
