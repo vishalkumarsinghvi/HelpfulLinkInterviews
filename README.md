@@ -36,3 +36,5 @@ Kotlin Learning basic revision :- https://medium.com/@mayuroks/learn-kotlin-for-
 
 Android thread services full explaintion :- https://www.toptal.com/android/android-threading-all-you-need-to-know
 
+Retrofit thread :- https://stackoverflow.com/questions/48151124/what-is-the-difference-between-retrofit-synchronous-and-asynchronous-request-wh
+
