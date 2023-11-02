@@ -41,3 +41,5 @@ Retrofit thread :- https://stackoverflow.com/questions/48151124/what-is-the-diff
 MVP simple example :- https://medium.com/cr8resume/make-you-hand-dirty-with-mvp-model-view-presenter-eab5b5c16e42
 
 Solid Principal easy to understand : - https://www.youtube.com/watch?v=XI7zep97c-Y&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW&index=2
+
+Coroutines Basics :- https://www.youtube.com/watch?v=Mi5DEm45XlM&list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y&index=1
