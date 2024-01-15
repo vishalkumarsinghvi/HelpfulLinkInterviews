@@ -24,6 +24,8 @@ Retrofit Basic Example :- https://medium.com/@prakash_pun/retrofit-a-simple-andr
 
 Best Android library :- https://www.freecodecamp.org/news/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0/
 
+Room DataBase Relationship -> https://www.youtube.com/watch?v=A8AUtcP0rRs&list=PLWRTnlXpjIoOgiYPZ8IS_uQABpCpx7YNk
+
 Android LunchMode Best Tutorial:- https://www.youtube.com/watch?v=m8sf0UkJkxo&list=PLfuE3hOAeWhY8fkzCluHakmK9A3bJsGR0
 
 Android Content Provider :- https://www.youtube.com/watch?v=-4GgzqMVrYc&list=PLfuE3hOAeWhb7kirY4rBtTLVF73jEXwG4
