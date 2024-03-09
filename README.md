@@ -47,3 +47,5 @@ Solid Principal easy to understand : - https://www.youtube.com/watch?v=XI7zep97c
 Coroutines Basics :- https://www.youtube.com/watch?v=Mi5DEm45XlM&list=PLRKyZvuMYSIN-P6oJDEu3zGLl5UQNvx9y&index=1
 
 Android Interview Question 2024 -> https://flexiple.com/android/interview-questions
+
+Create your own DI -> https://blog.p-y.wtf/diy-your-own-dependency-injection-library
